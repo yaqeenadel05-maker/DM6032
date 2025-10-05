@@ -35,7 +35,7 @@ table{color:gray;
   margin-right: auto;
   padding: 6px;
 }
-
+th, td{border:2px solid black;}
 td{font-family:Times new roman;
   color:red;
 }
