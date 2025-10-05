@@ -1,0 +1,62 @@
+h1{font-family: Segoe UI, arial;
+text-align:center;
+  font-size:25px;
+  font-weight: bold;
+  color: white;
+  Letter-spacing:3 px;
+  border:5px solid pink;
+  line-hight:48px;
+  background-color: #808080
+}
+
+ul {display: flex;
+  justify-content: center;
+  gap: 50px;
+
+ 
+}
+a {color:Red;
+  font-family: Times new roman, arial;
+  font-size: 15px;
+  letter-spacing: 3px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+table{color:gray;
+  border: 3px solid navy;
+  border-collapse: collapse;
+  height:100px;
+  width: 50%;
+  background-color:pink;
+  text-align:center;
+ margin: 30px;
+  margin-left:auto;
+  margin-right: auto;
+  padding: 6px;
+}
+
+td{font-family:Times new roman;
+  color:red;
+}
+
+th{font-wight:bold;
+font-size:17px;
+color:black; 
+}
+
+h2{font-family: Times new roman, arial;
+  font-size:35px;
+  color:red;
+  text-align:center;
+}
+
+#media{
+  max-width:350px;
+  margin:350px auto;
+  padding:20px;
+  hight:30px;
+border: 10px;
+    text-align:center;
+  
+}
